@@ -3270,5 +3270,23 @@
     "github_repo": "WaMXXVII/Archer-class",
     "repo_url": "https://WaMXXVII.github.io/Archer-class/",
     "has_system": false
+  },
+  {
+    "name": "Corvum-Race",
+    "description": "Adds the Corvum race from the Humblewood Campaign Setting.",
+    "tags": [
+      "5e",
+      "humblewood-campaign-setting",
+      "race",
+      "corvum"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Jaguar2k9/Corvum-Race",
+    "repo_url": "https://Jaguar2k9.github.io/Corvum-Race/",
+    "has_system": false
   }
 ]
